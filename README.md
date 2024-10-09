@@ -6,9 +6,9 @@ En este desafío, se crea una página web interactiva que permite a los usuarios
 
 El proyecto incluye:
 
-- **HTML**: Estructura básica de la página.
-- **CSS**: Estilos para el diseño y la presentación.
-- **JavaScript**: Lógica para actualizar el color de fondo según los valores RGB seleccionados.
+- HTML: Estructura básica de la página.
+- CSS: Estilos para el diseño y la presentación.
+- JavaScript: Lógica para actualizar el color de fondo según los valores RGB seleccionados.
 
 ## Cómo Funciona
 
