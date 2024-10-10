@@ -1,4 +1,4 @@
-# Desafío: Selector de Color RGB Interactivo
+## Desafío: Selector de Color RGB Interactivo
 
 En este desafío, se crea una página web interactiva que permite a los usuarios ajustar el color de fondo mediante controles deslizantes para los valores RGB (Rojo, Verde y Azul).
 
